@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="Страница — 1" id="RokCmYcQlxsk97vdpGgN">
-    <mxGraphModel dx="2327" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2736" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,6 +95,21 @@
         </mxCell>
         <mxCell id="csoe86WIQfcex7oyNqo1-36" value="&lt;b style=&quot;font-size: 25px;&quot;&gt;Процессинг по приему&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#D814FF;" vertex="1" parent="1">
           <mxGeometry x="210" y="10" width="325" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-37" value="Положение об оплате труда" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="775" y="105" width="215" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-38" value="Правила внутреннего трудового распорядка" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="775" y="180" width="215" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-39" value="Положение о защите персональных данных" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="775" y="260" width="215" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-40" value="Приказ ПобОТ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="775" y="337.5" width="215" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-41" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;Шаблоны которые не входят в процессинг&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#4DE7FF;" vertex="1" parent="1">
+          <mxGeometry x="710" y="50" width="325" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
