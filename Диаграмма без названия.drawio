@@ -1,9 +1,101 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="Страница — 1" id="RokCmYcQlxsk97vdpGgN">
-    <mxGraphModel>
+    <mxGraphModel dx="2327" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="csoe86WIQfcex7oyNqo1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-1" target="csoe86WIQfcex7oyNqo1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-1" value="Анкета по учету кадров-469" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-2" target="csoe86WIQfcex7oyNqo1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-2" target="csoe86WIQfcex7oyNqo1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-2" target="csoe86WIQfcex7oyNqo1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-2" target="csoe86WIQfcex7oyNqo1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-2" value="Личный листок-470" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-4" value="Согласие на Сбор, Обработку Персональных данных-472" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-6" value="Заявление на работу- 471" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="170" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-8" value="Карточка т-2 - 476&lt;br&gt;только для мужчин" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-10" target="csoe86WIQfcex7oyNqo1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-10" target="csoe86WIQfcex7oyNqo1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-10" target="csoe86WIQfcex7oyNqo1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-10" target="csoe86WIQfcex7oyNqo1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-10" target="csoe86WIQfcex7oyNqo1-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="707.5" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-10" target="csoe86WIQfcex7oyNqo1-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-10" target="csoe86WIQfcex7oyNqo1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-10" target="csoe86WIQfcex7oyNqo1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-10" target="csoe86WIQfcex7oyNqo1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-10" value="Трудовой договор-474" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-12" value="Приказ-475" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-68.75" y="291.25" width="95" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-14" value="Соглашение о конф. и неразгл. информации с Работником-477" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="337.5" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-21" target="csoe86WIQfcex7oyNqo1-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-21" value="Договор о полной индивидуальной материальной ответственности-479" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-23" value="Договор о неконкуренции-485" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="425" width="115" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-25" value="Перечень сведений, состоянии конфиденциальную информацию-478" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="411.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-27" value="Лист ознакомления работника-486" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="368.75" width="115" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-32" value="ДИ- с 487 по 491" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-34" value="Акт приема-передачи товарно-материальных ценностей-480" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="26.25" y="475" width="142.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-36" value="&lt;b style=&quot;font-size: 25px;&quot;&gt;Процессинг по приему&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#D814FF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="10" width="325" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
