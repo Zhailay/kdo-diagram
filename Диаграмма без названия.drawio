@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="Страница — 1" id="RokCmYcQlxsk97vdpGgN">
-    <mxGraphModel dx="2736" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3154" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,6 +110,69 @@
         </mxCell>
         <mxCell id="csoe86WIQfcex7oyNqo1-41" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;Шаблоны которые не входят в процессинг&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#4DE7FF;" vertex="1" parent="1">
           <mxGeometry x="710" y="50" width="325" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-42" value="&lt;b style=&quot;font-size: 25px;&quot;&gt;Процессинг по отпускам&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#D814FF;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="10" width="325" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-43" value="Заявление работника о предоставлении оплачиваемого отпуска-670" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="105" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-44" value="Приказ о предоставлении оплачиваемого ежегодного трудового отпуска-671" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1265" y="235" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-43" target="csoe86WIQfcex7oyNqo1-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-980" y="320" as="sourcePoint" />
+            <mxPoint x="-930" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-46" target="csoe86WIQfcex7oyNqo1-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-46" value="Заявление работника о переносе оплачиваемого ежегодного-673" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="107.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-47" value="Приказ о переносе оплачиваемого ежегодного трудового-674" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1067.5" y="235" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-49" target="csoe86WIQfcex7oyNqo1-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-49" value="Заявление работника о предоставлении отпуска без сохранения заработной платы-680" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-865" y="107.5" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-50" value="Приказ о предоставлении отпуска без сохранения заработной платы-672" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-862.5" y="232.5" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-52" target="csoe86WIQfcex7oyNqo1-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-52" value="Служебная записка об отзыве работника из оплачиваемого отпуска-676" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="107.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-53" target="csoe86WIQfcex7oyNqo1-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-53" value="Согласие работника на отзыв из оплачиваемого ежегодного отпуска-678" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-611.5" y="235" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-55" value="Приказ об отзыве из оплачиваемого ежегодного трудового отпуска-675" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-602" y="337.5" width="134" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-57" target="csoe86WIQfcex7oyNqo1-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-57" value="Служебная записка об отзыве работника из отпуска без содержания-677" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="110" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="csoe86WIQfcex7oyNqo1-58" target="csoe86WIQfcex7oyNqo1-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-58" value="Согласие работника на отзыв из неоплачиваемого отпуска-679" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-407.5" y="235" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csoe86WIQfcex7oyNqo1-60" value="Приказ об отзыве из неоплачиваемого отпуска-672" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-412.5" y="355" width="155" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
